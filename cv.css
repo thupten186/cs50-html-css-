@@ -1,0 +1,50 @@
+div
+{
+    color: rgba(2, 2, 9, 0.795);
+    }
+#header
+{
+    position: center;
+   
+    height:40px;
+    width: 98%;
+    background-color: lightblue;
+    
+    }
+img {
+		border-radius: 30%;
+		margin: auto 5px;
+		float: right;
+	max-width: 3cm;
+	max-height: 3cm;
+}
+#comapany-name {
+    
+	font-size: 16px;
+	
+	color:rgb(219, 60, 60);
+}
+#experience {
+    
+	font-size: 16px;
+	
+	color:aqua(0, 0, 0);
+}
+#job-title {
+    
+	font-size: 16px;
+	
+	color:blue(0, 0, 0);
+}
+
+#gmail{
+    font-size: 16px;
+	color: #b32121;
+}
+.education {
+    
+	font-size: 16px;
+	
+	color:orange;
+}
+
